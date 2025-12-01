@@ -1,0 +1,24 @@
+# rust
+[language-server.rust-analyzer.config.check]
+command = "clippy"
+
+[language-server.rust-analyzer.config.cargo]
+features = "all"
+
+# python
+[[language]]
+name = "python"
+language-servers = ["pylsp"]
+
+[language-server.pylsp.config.pylsp]
+plugins.pylsp_mypy.enabled = true
+plugins.pylsp_mypy.live_mode = true
+
+#markdown
+[[language]]
+name = "markdown"
+language-servers = [ "marksman", "ltex-ls" ]
+
+[language-server.ltex-ls.config]
+ltex.disabledRules = { "en-US" = ["PROFANITY"], "en-GB" = ["PROFANITY"] }
+ltex.dictionary = { "en-US" = ["builtin"], "en-GB" = ["builtin"] }
