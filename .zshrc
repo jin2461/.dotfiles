@@ -114,3 +114,5 @@ source $ZSH/oh-my-zsh.sh
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 # source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 alias hx="helix"
+alias pow="cat /sys/class/power_supply/BAT0/capacity"
+alias color="zsh | blahaj -c "
