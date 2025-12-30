@@ -116,3 +116,4 @@ source $ZSH/oh-my-zsh.sh
 alias hx="helix"
 alias pow="cat /sys/class/power_supply/BAT0/capacity"
 alias color="zsh | blahaj -c "
+alias omega="/home/rain/Downloads/omega/YGO\ Omega.x86_64"
