@@ -1,3 +1,15 @@
+Wed Dec 31 08:25:11 PM EST 2025
+today was nice
+I relaxed in the morning, had therapy
+was going to do homework but was eepy, its fine, I will do it later, its not that much
+I am so excited about going over to max's house tomarrow
+felt good in skirt, I feel so nice when Im fem
+today was overall a very good day, I was able to relax without feeling guilty, and felt really good about life
+I am learning to be happy
+shower: [x]
+teeth: []
+walk: [x]
+
 Tue Dec 30 08:39:00 PM EST 2025
 monday was fine, played a bit of the devil, was nice,
 then went to party
